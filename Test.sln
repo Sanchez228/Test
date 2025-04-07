@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitfinexConnector", "BitfinexConnector\BitfinexConnector.csproj", "{B96B1F4C-0B82-4F6A-A760-4261982080D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitfinexApp", "BitfinexApp\BitfinexApp.csproj", "{C3807994-5B57-4558-85BD-BCD75592B7E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitfinexConnector.Tests", "..\..\..\Desktop\BitfinexConnector.Tests\BitfinexConnector.Tests.csproj", "{2A2556B6-89A7-E480-BCDA-1B9E9423F652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96B1F4C-0B82-4F6A-A760-4261982080D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96B1F4C-0B82-4F6A-A760-4261982080D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96B1F4C-0B82-4F6A-A760-4261982080D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96B1F4C-0B82-4F6A-A760-4261982080D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3807994-5B57-4558-85BD-BCD75592B7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3807994-5B57-4558-85BD-BCD75592B7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3807994-5B57-4558-85BD-BCD75592B7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3807994-5B57-4558-85BD-BCD75592B7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2556B6-89A7-E480-BCDA-1B9E9423F652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2556B6-89A7-E480-BCDA-1B9E9423F652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2556B6-89A7-E480-BCDA-1B9E9423F652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2556B6-89A7-E480-BCDA-1B9E9423F652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD0E1F2-8F07-42EF-AA22-5CAE85A888C1}
+	EndGlobalSection
+EndGlobal
